@@ -1,0 +1,4 @@
+<div style="text-align: center;">
+    <h1>Home Page</h1>
+    <p>This is home page.</p>
+</div>
